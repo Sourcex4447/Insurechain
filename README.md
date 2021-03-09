@@ -83,7 +83,7 @@ The user flow Diagram can be studied here.
 
 [![Insurechain Video demo](Video.png)](https://drive.google.com/file/d/140nkdJTaBX_qfekZsVtRshdBNxEdVfSd/view)
 
-## Conclusion
+## Conclusion-
 
 The Fourth Industrial Revolution will entirely depend on a few cutting-edge technologies.
 This revolution will introduce new challenges as well as exciting opportunities. Tackling these challenges and exploiting the opportunity will solely rely on the practical usage of these Public Blockchains. 
